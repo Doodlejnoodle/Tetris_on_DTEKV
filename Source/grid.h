@@ -1,9 +1,8 @@
 #ifndef GRID_H
-#define GRID_H
 
 #include <stdint.h>
 
-#define GRID_W 10
+#define GRID_W 10      
 #define GRID_H 20
 
 extern uint8_t grid[GRID_H][GRID_W];

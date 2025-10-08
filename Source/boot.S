@@ -135,6 +135,7 @@ enable_interrupt:
     // Set MTIE bit 
     csrsi mie, 16
     csrsi mie, 18
+
     jr ra                 // return address
 
 

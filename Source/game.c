@@ -1,6 +1,7 @@
 #include "game.h"
 #include "grid.h"
 #include "tetriminoes.h"
+#include "vga.h"
 
 Piece current_piece;
 int score = 0;
